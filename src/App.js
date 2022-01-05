@@ -24,7 +24,7 @@ const App = () => {
       >click</button>
       <p ref={backRef} id='backref'>Lorem ipsum dolor sit.</p>
       <p>Lorem ipsum dolor sit.</p>
-      <p>123123</p>
+      <p>123123123</p>
       <h3>
         <Typewriter
           onInit={(typewriter) => {
